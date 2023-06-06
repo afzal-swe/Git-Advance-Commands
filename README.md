@@ -17,7 +17,7 @@ ___
 --
 ## Installation
 
-coming soon this direction .
+coming soon this Git Installation direction.......
 
 ### Getting & Creating Projects
 
