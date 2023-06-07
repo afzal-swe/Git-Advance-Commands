@@ -74,6 +74,7 @@ coming soon this Git Installation direction.......
 | `git remote add origin ssh://git@github.com/[username]/[repository-name].git` | Add a remote repository |
 | `git remote set-url origin ssh://git@github.com/[username]/[repository-name].git` | Set a repository's origin branch to SSH |
 
+
 ### Inspection & Comparison
 
 | Command | Description |
@@ -83,3 +84,4 @@ coming soon this Git Installation direction.......
 | `git log --oneline` | View all commit file with shortest |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 | `git checkout [commit code number]` | Back to the behind stype |
+| `git show [commit code number]` | show this commit update |
