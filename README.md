@@ -78,7 +78,7 @@ coming soon this Git Installation direction.......
 
 | Command | Description |
 | ------- | ----------- |
-| `git log` | View changes |
+| `git log` | View all commit file |
 | `git log --summary` | View changes (detailed) |
-| `git log --oneline` | View changes (briefly) |
+| `git log --oneline` | View all commit file with shortest |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
