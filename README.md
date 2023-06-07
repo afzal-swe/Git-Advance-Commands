@@ -85,3 +85,4 @@ coming soon this Git Installation direction.......
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 | `git checkout [commit code number]` | Back to the behind stype |
 | `git show [commit code number]` | show this commit update |
+| `git diff [two commit code]` | show two commit difference |
