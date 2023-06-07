@@ -82,3 +82,4 @@ coming soon this Git Installation direction.......
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View all commit file with shortest |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+| `git checkout [commit code number]` | Back to the behind stype |
